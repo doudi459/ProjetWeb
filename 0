@@ -1,0 +1,518 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title id="nomPage">Page1</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="jumbotron.css" rel="stylesheet">
+    <script type="text/javascript" src="dist/js/bootstrap.js"></script>
+    <script type="text/javascript" >
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>41</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: PDOStatement::execute() expects parameter 1 to be array, string given in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>41</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0029</td><td bgcolor='#eeeeec' align='right'>273464</td><td bgcolor='#eeeeec'><a href='http://www.php.net/PDOStatement.execute' target='_new'>execute</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>41</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>43</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: sha1_file(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>43</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0053</td><td bgcolor='#eeeeec' align='right'>273592</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.sha1-file' target='_new'>sha1_file</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>43</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined index: urlmg in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: copy(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0079</td><td bgcolor='#eeeeec' align='right'>273840</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.copy' target='_new'>copy</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>44</td></tr>
+</table></font>
+      window.onload = function () {
+        var classe = '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 2 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>49</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+';
+
+      elem=document.getElementsByClassName(classe)[0];
+      elem1=document.getElementsByClassName(classe)[1];
+      elem2=document.getElementsByClassName(classe)[2];
+
+      if(elem.nodeName =="img" || elem.nodeName =="IMG")
+      {
+      elem.src =  './bibliotheque/.jpg';
+      elem1.innerHTML =  '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>58</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>58</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+' ;
+      elem2.innerHTML =  '';
+      }
+      else{
+      elem.innerHTML = '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>62</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>62</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+';
+      elem1.innerHTML = '';
+      elem2.src = './bibliotheque/.jpg';
+
+      }
+      
+
+
+      
+        // body...
+      }
+       <br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>41</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: PDOStatement::execute() expects parameter 1 to be array, string given in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>41</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0144</td><td bgcolor='#eeeeec' align='right'>274184</td><td bgcolor='#eeeeec'><a href='http://www.php.net/PDOStatement.execute' target='_new'>execute</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>41</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>43</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: sha1_file(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>43</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0162</td><td bgcolor='#eeeeec' align='right'>274184</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.sha1-file' target='_new'>sha1_file</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>43</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined index: urlmg in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: copy(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0180</td><td bgcolor='#eeeeec' align='right'>274144</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.copy' target='_new'>copy</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>44</td></tr>
+</table></font>
+      window.onload = function () {
+        var classe = '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 2 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>49</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+';
+
+      elem=document.getElementsByClassName(classe)[0];
+      elem1=document.getElementsByClassName(classe)[1];
+      elem2=document.getElementsByClassName(classe)[2];
+
+      if(elem.nodeName =="img" || elem.nodeName =="IMG")
+      {
+      elem.src =  './bibliotheque/.jpg';
+      elem1.innerHTML =  '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>58</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>58</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+' ;
+      elem2.innerHTML =  '';
+      }
+      else{
+      elem.innerHTML = '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>62</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>62</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+';
+      elem1.innerHTML = '';
+      elem2.src = './bibliotheque/.jpg';
+
+      }
+      
+
+
+      
+        // body...
+      }
+       <br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>41</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: PDOStatement::execute() expects parameter 1 to be array, string given in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>41</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0237</td><td bgcolor='#eeeeec' align='right'>274160</td><td bgcolor='#eeeeec'><a href='http://www.php.net/PDOStatement.execute' target='_new'>execute</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>41</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>43</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: sha1_file(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>43</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0256</td><td bgcolor='#eeeeec' align='right'>274160</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.sha1-file' target='_new'>sha1_file</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>43</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined index: urlmg in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: copy(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0273</td><td bgcolor='#eeeeec' align='right'>274120</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.copy' target='_new'>copy</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>44</td></tr>
+</table></font>
+      window.onload = function () {
+        var classe = '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 2 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>49</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+';
+
+      elem=document.getElementsByClassName(classe)[0];
+      elem1=document.getElementsByClassName(classe)[1];
+      elem2=document.getElementsByClassName(classe)[2];
+
+      if(elem.nodeName =="img" || elem.nodeName =="IMG")
+      {
+      elem.src =  './bibliotheque/.jpg';
+      elem1.innerHTML =  '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>58</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>58</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+' ;
+      elem2.innerHTML =  '';
+      }
+      else{
+      elem.innerHTML = '<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 1 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>62</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Uninitialized string offset: 0 in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>62</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+';
+      elem1.innerHTML = '';
+      elem2.src = './bibliotheque/.jpg';
+
+      }
+      
+
+
+      
+        // body...
+      }
+       <br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined index: urlmg in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: copy(): Filename cannot be empty in C:\wamp\www\ProjetWeb\Modele1.html.php on line <i>44</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>263968</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0372</td><td bgcolor='#eeeeec' align='right'>280056</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.copy' target='_new'>copy</a>
+(  )</td><td title='C:\wamp\www\ProjetWeb\Modele1.html.php' bgcolor='#eeeeec'>..\Modele1.html.php<b>:</b>44</td></tr>
+</table></font>
+      window.onload = function () {
+        var classe = 'sec1art1';
+
+      elem=document.getElementsByClassName(classe)[0];
+      elem1=document.getElementsByClassName(classe)[1];
+      elem2=document.getElementsByClassName(classe)[2];
+
+      if(elem.nodeName =="img" || elem.nodeName =="IMG")
+      {
+      elem.src =  './bibliotheque/c3dceab1440f1b8ca8c60a033688ef2c51306f02.jpg';
+      elem1.innerHTML =  'les doux' ;
+      elem2.innerHTML =  '<span style="font-size: large;">on <span style="font-weight: bold;">1946 commonsais a&nbsp;</span></span>';
+      }
+      else{
+      elem.innerHTML = 'les doux';
+      elem1.innerHTML = '<span style="font-size: large;">on <span style="font-weight: bold;">1946 commonsais a&nbsp;</span></span>';
+      elem2.src = './bibliotheque/c3dceab1440f1b8ca8c60a033688ef2c51306f02.jpg';
+
+      }
+      
+
+
+      
+        // body...
+      }
+       
+      
+    </script>
+
+ 
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+      <a class="navbar-brand" href="#">Navbar</a>
+
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3" id="title">Hello, world!</h1>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+
+        <div class="card" id="section1">  
+         <div class="card-header">
+          <h2> Section 1</h2>
+        </div>  
+        <div class="card-body p-4">
+          <div class="row ">
+        <div class="col-md-6 ">
+          <article>
+          <h3 class="sec1art1">Article 1</h3>
+          <p class="sec1art1">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          
+        </article>
+        </div>
+        
+        <div class="col-md-6" style="display:one">
+
+         <img class="sec1art1" src="../images/c1.jpg" alt="Card image cap" style="border: 3px solid gray;float: right;height:90%;width=90%" >
+       </div>
+        
+        <div class="col-md-6" style="display:none">
+        </div>
+              
+        <div class="col-md-6">
+          <article>
+          <h3 class="sec1art2">Article 2</h3>
+          <p class="sec1art2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          
+        </article>
+       </div>
+         <div class="col-md-6" style="display:one">
+         <img class="sec1art2" src="../images/c3.jpg" alt="Card image cap" style="border: 3px solid gray;float: right;height:90%;width=90%" >
+       </div>
+      </div>
+      </div>
+
+      </div>
+
+      <br>
+
+        <div class="card " id="section2"> 
+        <div class="card-header">
+          <h2 > Section 2</h2>
+        </div>  
+        <div class="card-body p-4">       
+          <div class="row ">
+        <div class="col-md-6">
+          <article>
+          <h3 class="sec2art1">Article 3</h3>
+          <p class="sec2art1">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          
+        </article>
+       </div>
+       <div class="col-md-6" style="display:one">
+         <img class="sec2art1" src="../images/c2.jpg" alt="Card image cap" style="border: 3px solid gray;float: right;height:90%;width=90%">
+       </div>
+      </div>
+      </div>
+
+
+    </div>
+  
+
+     <br>
+
+        <div class="card " id="section3"> 
+        <div class="card-header">
+          <h2 > Section 3</h2>
+        </div>  
+        <div class="card-body p-4">      
+          <div class="row ">
+         <div class="col-md-6" style="display:one">
+         <img class="sec3art1" src="../images/c2.jpg" alt="Card image cap" style="border: 3px solid gray;float: left;height:90%;width=90%">
+       </div>
+        <div class="col-md-6">
+          <article>
+          <h2 class="sec3art1">Article 4</h2>
+          <p class="sec3art1">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          
+        </article>
+       </div>
+
+      </div>
+      </div>
+
+
+    </div>
+ 
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2017</p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
